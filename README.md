@@ -1,1 +1,2 @@
-## Travelling Salesman Problem (TSP) - Genetic Algorithm
+# Genetic Algorithm for Travelling Salesman Problem (TSP)
+![UI](ui.jpg)
